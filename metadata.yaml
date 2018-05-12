@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36268
     wikipedia: http://en.wikipedia.org/wiki/William_Stanley_Jevons
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33219#Political-economy
 gutenberg_issued: '2010-07-22'
 gutenberg_type: Text
 identifiers:
