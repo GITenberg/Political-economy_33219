@@ -1,0 +1,28 @@
+_repo: Political-economy_33219
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jevons, William Stanley
+    alias: Jevons, W. Stanley (William Stanley)
+    birthdate: 1835
+    deathdate: 1882
+    gutenberg_agent_id: '36268'
+    url: http://www.gutenberg.org/2009/agents/36268
+    wikipedia: http://en.wikipedia.org/wiki/William_Stanley_Jevons
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcc 'HB'
+title: Political economy
+url: http://www.gutenberg.org/ebooks/33219
